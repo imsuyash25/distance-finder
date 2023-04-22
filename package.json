@@ -1,6 +1,6 @@
 {
   "homepage": "https://imsuyash25.github.io/distance-finder",
-  "name": "traveladvisor-yt",
+  "name": "traveladvisor-main",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
